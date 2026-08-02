@@ -1,6 +1,9 @@
 # 说明
 - 该仓库专门用户存放EasyClick的三方扩展类库，包括ui、js、以及插件等
 
+# 最新文档备份地址
+- https://github.com/easy-click/easyclick-docs-md
+
 
 # EasyClick简介
 
