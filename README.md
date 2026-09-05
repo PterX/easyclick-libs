@@ -86,3 +86,10 @@ Q群4: 772810035 Q群5: 484379843 Q群6：435253761
 Q群7: 397570651 Q群8: 12076933 Q群9: 778278905
 
 
+
+iOS群控  iOS自动化脚本  https://www.iosqunkong.com
+苹果群控  苹果自动化脚本 https://www.pingguoqunkong.com
+
+
+
+
